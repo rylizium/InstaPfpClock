@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "TEy5EiWmbc0=",
+  "dgSpecHash": "Wo1ZwiiwOdVM5A2Gld7bpf6ZHOs9pptUH4xnsYMbccAslfUk3r832F7l3LBJOa/Mb/QPkpWlunfxkRIqi4gP+Q==",
   "success": true,
-  "projectFilePath": "D:\\DATA\\Code\\Csharp\\InstagramProfileClock\\InstagramProfileClock.csproj",
+  "projectFilePath": "/Users/ryliz/Code/OpenSrc/InstaPfpClock/InstagramProfileClock/InstagramProfileClock.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\TuanAnh\\.nuget\\packages\\instagramapisharp\\1.7.4\\instagramapisharp.1.7.4.nupkg.sha512",
-    "C:\\Users\\TuanAnh\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\TuanAnh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\TuanAnh\\.nuget\\packages\\portable.bouncycastle\\1.8.6.7\\portable.bouncycastle.1.8.6.7.nupkg.sha512"
+    "/Users/ryliz/.nuget/packages/instagramapisharp/1.7.4/instagramapisharp.1.7.4.nupkg.sha512",
+    "/Users/ryliz/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/ryliz/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/ryliz/.nuget/packages/portable.bouncycastle/1.8.6.7/portable.bouncycastle.1.8.6.7.nupkg.sha512"
   ],
   "logs": []
 }
